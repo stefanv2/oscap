@@ -1,4 +1,3 @@
-OpenSCAP STIG Compliance Dashboard
 # OpenSCAP STIG Compliance Dashboard
 
 Dit project biedt een overzichtelijke en praktische manier om OpenSCAP STIG scans te analyseren, te verrijken met uitzonderingen (exceptions) en te presenteren in een duidelijk HTML-dashboard.
