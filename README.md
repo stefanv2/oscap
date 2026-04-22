@@ -1,4 +1,3 @@
-# Oscap STIG Compliance Dashboard
 OpenSCAP STIG Compliance Dashboard
 # OpenSCAP STIG Compliance Dashboard
 
