@@ -5,7 +5,7 @@ Dit project biedt een overzichtelijke en praktische manier om OpenSCAP STIG scan
 Het doel is om van ruwe scanresultaten naar een **bruikbaar en beheersbaar compliance-overzicht** te gaan.
 
 <p align="center">
-<img src="images/cruiff.png" alt="BTOP" width="120" height="120"/>  
+<img src="oscap.png" alt="BTOP" width="120" height="120"/>  
 </p>
 
 ---
